@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NavigationDrawerExample</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="impoeert">Import</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+
+    <string-array name="semisters">
+        <item>Semister 1</item>
+        <item>Semister 2</item>
+        <item>Semister 3</item>
+    </string-array>
+
+
+</resources>

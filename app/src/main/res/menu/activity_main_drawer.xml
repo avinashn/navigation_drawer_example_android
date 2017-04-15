@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="Home" />
+        <item
+            android:id="@+id/timeTable"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Time Table" />
+        <item
+            android:id="@+id/examSchedule"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Exam Schedule" />
+        <item
+            android:id="@+id/attendence"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Attendence" />
+        <item
+            android:id="@+id/result"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Results" />
+    </group>
+
+    <item android:title="Social">
+        <menu>
+            <item
+                android:id="@+id/fb"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Faacebook" />
+            <item
+                android:id="@+id/gplus"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Google +" />
+            <item
+                android:id="@+id/twitter"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Twitter" />
+            <item
+                android:id="@+id/youtube"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Youtube" />
+            <item
+                android:id="@+id/github"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Github" />
+        </menu>
+    </item>
+
+</menu>
